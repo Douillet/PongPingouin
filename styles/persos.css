@@ -13,7 +13,7 @@
 #perso1{
     background-image: url("./skins/wimbledon/public/1.png");
     animation-duration: 1s;
-    margin-top: 13vmin;
+    margin-top: 17vmin;
 
 }
 #perso2{
@@ -27,7 +27,7 @@
 }
 #perso4{
     background-image: url("./skins/wimbledon/public/4.png");
-    margin-top: 11vmin;
+    margin-top: 19vmin;
     animation-duration: 2s;
 }
 #perso5{
@@ -37,11 +37,11 @@
 }
 #perso6{
     background-image: url("./skins/wimbledon/public/6.png");
-    margin-top: 11vmin;
+    margin-top: 15vmin;
 }
 #perso7{
     background-image: url("./skins/wimbledon/public/7.png");
-    margin-top: 13vmin;
+    margin-top: 18vmin;
 }
 #perso8{
     background-image: url("./skins/wimbledon/public/8.png");
@@ -50,7 +50,7 @@
 }
 #perso9{
     background-image: url("./skins/wimbledon/public/9.png");
-    margin-top: 14vmin;
+    margin-top: 16vmin;
     animation-duration: 1s;
 }
 #perso10{
