@@ -32,7 +32,7 @@ body{
     height: 100%;
     position: absolute;
     display: flex;
-    background-image: url('./skins/wimbledon/texturebackground.PNG');
+    background-image: url('./skins/wimbledon/texturebackground.png');
     justify-content: center;
     align-items: center;
 }
